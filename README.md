@@ -1,2 +1,2 @@
-# dminischetti-citytech.github.io
-:)
+# minischetti.me
+dominic minischetti :)
