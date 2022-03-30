@@ -18,25 +18,10 @@ darkmode: true
 twitter_username: dominischetti
 # github_username:  sproogen
 # stackoverflow_username: "00000001"
-# dribbble_username: jekyll
 facebook_username: dominic.minischetti
-# flickr_username: jekyll
 instagram_username: dminischetti
 linkedin_username: dominischetti
-# xing_username: jekyll
-# pinterest_username: jekyll
 # youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -73,7 +58,6 @@ content:
         -	Troubleshooted issues affecting production, stage, and development environments using Agile Kanban through JIRA and GIT versioning systems for project management.
         -	Played a key role in the feature implementation, development, improvement, and operation of web-based software using Nginx Application servers and Docker containers to deploy applications.
         -	Identified, resolved, or provided recommendations on performance problems on multi-source replicas of Mariadb Database. 
-
 
 # Footer
 footer_show_references: false
