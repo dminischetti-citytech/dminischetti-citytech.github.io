@@ -2174,7 +2174,6 @@ c7C97IT/AHYRDdu3KjJzF8LMVpcOKtwzzkN3cvzvm/4eXY9cnpy2k3IIpD34a8FzszCIIt1u93XW
 acl7Yt1u+veuXnpqCA5i1L9B8Py7JXHv03OT8yIBb3LpQiiUIyIsrVq5Pq8V56Wk4Oi4QzESIIi7
 btdFico/8gxo8kcnJlaEfCITtR6di+j1JZry39VeX/KQdLzHNw4g81Da0aandcO7Zs3tU5RCi3d6
 Em6yzFwFudS0yeCjd0zmkVtckJQp/lRo6XEbr4w1bsX1Rygi/pdCHaRDYLUdtbMvn7/CGiy0jyvC
-YtKyVhkTluqvobTYQ5jRZw4wkQu7VZtdN6+b8uy9yPofF5zi1i8lIRQJIY0QbSjPgz67V0okKoy4
 D0RytS3sZXmGxePu+3r8c9JR2UTOo69FEDWKOqdjTXqtdmtRM6CwMRPcq7RBSOKtampIprMm5iHC
 zEVo13qaJHWXPxYZiQxLS3rXNv8AUPGjjtDm7VjzM4PSK3FQz+locDLdqajU1LmNJaY9K5dJLb6X
 P9rmltKwwilDhxLqUxWEc1Ejn36sVE0KYnTuhwyPubctjR2ibc0Qc2GDrpOcWdJtCaI50hiRLrtb
@@ -3108,7 +3107,7 @@ ZTJvRG9jLnhtbC5yZWxzUEsFBgAAAAAGAAYAfAEAAD2MAQAAAA==
    <w:wrap type="none"/>
    <w:anchorlock/>
   </v:oval><![endif]--><![if !vml]><img width=230 height=230
-  src="test_files/image002.png" v:shapes="Oval_x0020_2"><![endif]><!--[if gte vml 1]><v:shapetype
+  src="00100sPORTRAIT_00100_BURST20200606153704948_COVER-e1593107217908.jpg" v:shapes="Oval_x0020_2"><![endif]><!--[if gte vml 1]><v:shapetype
    id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
    path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
    <v:stroke joinstyle="miter"/>
