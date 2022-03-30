@@ -50,8 +50,6 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Technical, dedicated professional with over 5 years of focused experience as a Data Analyst and SQL DBA with exceptional analytical, problem-solving, and communication skills looking for position within your organization in order to enhance my skills. 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
