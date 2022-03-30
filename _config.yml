@@ -76,9 +76,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: |
-        CUNY 
-        New York City College of Technology
+        title: New York City College of Technology
         caption: 2015 - 2020
         sub_title: BACHELOR’S DEGREE
         description: Bachelor of Technology in Computer Systems, Database Specialization (GPA: 3.7/4)
