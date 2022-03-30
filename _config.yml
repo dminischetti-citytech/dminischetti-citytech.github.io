@@ -68,7 +68,7 @@ content:
         title: Freelance
         sub_title: Full Stack Developer
         caption: August 2021 - Present
-        content: | 
+        description: | 
         -	Full-Stack Developer (PHP/MySQL/Firebase/JS) responsible for building server-side web applications.
         -	Troubleshooted issues affecting production, stage, and development environments using Agile Kanban through JIRA and GIT versioning systems for project management.
         -	Played a key role in the feature implementation, development, improvement, and operation of web-based software using Nginx Application servers and Docker containers to deploy applications.
