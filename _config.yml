@@ -40,11 +40,6 @@ linkedin_username: dominischetti
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Technical, dedicated professional with over 5 years of focused experience as a <mark>Data Analyst</mark> and <mark>SQL DBA</mark> with exceptional analytical, problem-solving, and communication skills looking for position within your organization in order to enhance my skills. 
-  |              Stage | Direct Products | ATP Yields |
-  | -----------------: | --------------: | ---------: |
-  |         Glycolysis |          2 ATP              ||
-  | Pyruvaye oxidation |          2 NADH |      5 ATP |
-  |  Citric acid cycle |          2 ATP              ||
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -89,6 +84,17 @@ content:
             - Website creation and <mark>PHP</mark> Application Management, editing catalogs, editorial advertising, drafting advertising of web and paper for company image.
             - Responsible for all web services: design, renovation, banners, hosting and domain name registration.
             - Operator Panel and <mark>Plesk</mark> server maintenance and activation domains and mailboxes, <mark>SQL</mark> databases
+  - title: Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+#        title: Freelance
+#        sub_title: Full Stack Developer
+#        caption: August 2021 - Present
+        description: | # this will include new lines to allow paragraphs
+            - AAAA
+            - BBBB
+            - CCCC
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
