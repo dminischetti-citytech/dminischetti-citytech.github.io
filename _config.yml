@@ -86,7 +86,7 @@ content:
             - Operator Panel and <mark>Plesk</mark> server maintenance and activation domains and mailboxes, <mark>SQL</mark> databases
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
-    content:
+    content: |
             -	Development languages: Java, C++, VBA, COBOL, Clipper
             -	Database: SQL Server, MySQL, Oracle, Access 
             -	Business Analytics: SSIS, Power BI
