@@ -87,9 +87,6 @@ content:
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content:
-      - layout: left
-#        title: Freelance
-        description: | # this will include new lines to allow paragraphs
             -	Development languages: Java, C++, VBA, COBOL, Clipper
             -	Database: SQL Server, MySQL, Oracle, Access 
             -	Business Analytics: SSIS, Power BI
