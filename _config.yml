@@ -40,12 +40,11 @@ linkedin_username: dominischetti
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Technical, dedicated professional with over 5 years of focused experience as a <mark>Data Analyst</mark> and <mark>SQL DBA</mark> with exceptional analytical, problem-solving, and communication skills looking for position within your organization in order to enhance my skills. 
-  Food    | Description                           
-  ------- | ------------------------------------- 
-  Apples  | A small, somewhat round ...           
-  Bananas | A long and curved, often-yellow ...   
-  Kiwis   | A small, hairy-skinned sweet ...      
-  Oranges | A spherical, orange-colored sweet ... 
+  |              Stage | Direct Products | ATP Yields |
+  | -----------------: | --------------: | ---------: |
+  |         Glycolysis |          2 ATP              ||
+  | Pyruvaye oxidation |          2 NADH |      5 ATP |
+  |  Citric acid cycle |          2 ATP              ||
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
