@@ -87,10 +87,10 @@ content:
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-            |	Development languages: Java, C++, VBA, COBOL, Clipper |	Analysis methodology: Functional Analysis, UML |
-            |	Database: SQL Server, MySQL, Oracle, Access |	Operative Systems: Windows, OSX, Unix |
-            |	Business Analytics: SSIS, Power BI |	Web: PHP, ASP, JavaScript, CSS, HTML |
-            | Application Server: Apache, IIS	|	Graphic Development: Photoshop, Illustrator |
+            - Development languages: Java, C++, VBA, COBOL, Clipper |	- Analysis methodology: Functional Analysis, UML
+            - Database: SQL Server, MySQL, Oracle, Access |	- Operative Systems: Windows, OSX, Unix
+            - Business Analytics: SSIS, Power BI | - Web: PHP, ASP, JavaScript, CSS, HTML
+            - Application Server: Apache, IIS	|	- Graphic Development: Photoshop, Illustrator
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
