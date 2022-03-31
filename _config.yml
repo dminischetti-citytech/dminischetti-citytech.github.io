@@ -86,8 +86,8 @@ content:
         <li>Database: SQL Server, MySQL, Oracle, Access </li>
         <li>Business Analytics: SSIS, Power BI</li>
         <li>Application Server: Apache, IIS	</li>
-        </ul></td>
-        <td width="50%"><ul>
+        <!--/ul></td>
+        <td width="50%"><ul-->
         <li>Analysis methodology: Functional Analysis, UML</li>
         <li>Operative Systems: Windows, OSX, Unix</li>
         <li>Web: PHP, ASP, JavaScript, CSS, HTML</li>
