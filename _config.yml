@@ -62,16 +62,38 @@ content:
             - Played a key role in the feature implementation, development, improvement, and operation of web-based software using Nginx Application servers and Docker containers to deploy applications.
             - Identified, resolved, or provided recommendations on performance problems on multi-source replicas of Mariadb Database
       - layout: left
-        title: Freelance 2
-        sub_title: Full Stack Developer 2
-        caption: August 2021 - Present 2
+        title: Eiffel srl
+        sub_title: Data Analyst and Database Administrator
+        caption: November 2012 - October 2015
         description: | # this will include new lines to allow paragraphs
-            - Full-Stack Developer (PHP/MySQL/Firebase/JS) responsible for building server-side web applications.
-            - Troubleshooted issues affecting production, stage, and development environments using Agile Kanban through JIRA and GIT versioning systems for project management.
-            - Played a key role in the feature implementation, development, improvement, and operation of web-based software using Nginx Application servers and Docker containers to deploy applications.
-            - Identified, resolved, or provided recommendations on performance problems on multi-source replicas of Mariadb Database
+            - Responsible for providing database administration of SQL Server databases and mentoring less experienced administrators. 
+            - Implemented SQL Server based solution to consolidate data collection and reporting applications.
+            - Performed day to day DBA activities such as monitoring SQL Server, addressing user requirements. 
+      - layout: left
+        title: Call2U srl
+        sub_title: Data Analyst
+        caption: September 2010 - November 2012
+        description: | # this will include new lines to allow paragraphs
+            - Responsible for providing database administration of SQL Server databases and mentoring less experienced administrators. 
+            - Implemented SQL Server based solution to consolidate data collection and reporting applications.
+            - Performed day to day DBA activities such as monitoring SQL Server, addressing user requirements. 
+      - layout: left
+        title: Eiffel srl
+        sub_title: Data Analyst and Database Administrator
+        caption: November 2012 - October 2015
+        description: | # this will include new lines to allow paragraphs
+            - Diagnosed, troubleshoot and resolved a range of software, hardware and connectivity issues. 
+            - Transitioned, designed, tailored, installed, and maintained multiple instances of Service Manager in Windows with Microsoft SQL Server and T-SQL backends.
+      - layout: left
+        title: ASD Servizi
+        sub_title: Web Developer
+        caption: December 2006 - April 2008
+        description: | # this will include new lines to allow paragraphs
+            - Website creation and PHP Application Management, editing catalogs, editorial advertising, drafting advertising of web and paper for company image.
+            - Responsible for all web services: design, renovation, banners, hosting and domain name registration.
+            - Operator Panel and Plesk server maintenance and activation domains and mailboxes, (SQL) databases
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 # Build settings
 remote_theme: sproogen/resume-theme
