@@ -61,6 +61,7 @@ content:
             - Troubleshooted issues affecting production, stage, and development environments using Agile Kanban through JIRA and GIT versioning systems for project management.
             - Played a key role in the feature implementation, development, improvement, and operation of web-based software using Nginx Application servers and Docker containers to deploy applications.
             - Identified, resolved, or provided recommendations on performance problems on multi-source replicas of Mariadb Database
+      - layout: left
         title: Freelance 2
         sub_title: Full Stack Developer 2
         caption: August 2021 - Present 2
