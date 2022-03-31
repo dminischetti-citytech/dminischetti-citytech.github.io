@@ -81,7 +81,7 @@ content:
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-        <table><tr><td width="50%"><ul>
+        <!--table><tr><td width="50%"--><ul>
         <li>Development languages: Java, C++, VBA, COBOL, Clipper</li>
         <li>Database: SQL Server, MySQL, Oracle, Access </li>
         <li>Business Analytics: SSIS, Power BI</li>
@@ -92,7 +92,7 @@ content:
         <li>Operative Systems: Windows, OSX, Unix</li>
         <li>Web: PHP, ASP, JavaScript, CSS, HTML</li>
         <li>Graphic Development: Photoshop, Illustrator</li>
-        </ul></td></tr></table>
+        </ul><!--/td></tr></table-->
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
