@@ -89,12 +89,15 @@ content:
     content:
       - layout: left
 #        title: Freelance
-#        sub_title: Full Stack Developer
-#        caption: August 2021 - Present
         description: | # this will include new lines to allow paragraphs
-            - AAAA
-            - BBBB
-            - CCCC
+            -	Development languages: Java, C++, VBA, COBOL, Clipper
+            -	Database: SQL Server, MySQL, Oracle, Access 
+            -	Business Analytics: SSIS, Power BI
+            - Application Server: Apache, IIS	
+            -	Analysis methodology: Functional Analysis, UML
+            -	Operative Systems: Windows, OSX, Unix
+            -	Web: PHP, ASP, JavaScript, CSS, HTML
+            -	Graphic Development: Photoshop, Illustrator
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
