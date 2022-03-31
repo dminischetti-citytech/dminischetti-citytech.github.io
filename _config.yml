@@ -85,7 +85,7 @@ content:
             - Responsible for all web services: design, renovation, banners, hosting and domain name registration.
             - Operator Panel and <mark>Plesk</mark> server maintenance and activation domains and mailboxes, <mark>SQL</mark> databases
   - title: Skills # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
       - layout: left
 #        title: Freelance
