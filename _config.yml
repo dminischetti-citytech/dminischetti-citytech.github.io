@@ -60,7 +60,15 @@ content:
             - Full-Stack Developer (PHP/MySQL/Firebase/JS) responsible for building server-side web applications.
             - Troubleshooted issues affecting production, stage, and development environments using Agile Kanban through JIRA and GIT versioning systems for project management.
             - Played a key role in the feature implementation, development, improvement, and operation of web-based software using Nginx Application servers and Docker containers to deploy applications.
-            = Identified, resolved, or provided recommendations on performance problems on multi-source replicas of Mariadb Database
+            - Identified, resolved, or provided recommendations on performance problems on multi-source replicas of Mariadb Database
+        title: Freelance
+        sub_title: Full Stack Developer
+        caption: August 2021 - Present
+        description: | # this will include new lines to allow paragraphs
+            - Full-Stack Developer (PHP/MySQL/Firebase/JS) responsible for building server-side web applications.
+            - Troubleshooted issues affecting production, stage, and development environments using Agile Kanban through JIRA and GIT versioning systems for project management.
+            - Played a key role in the feature implementation, development, improvement, and operation of web-based software using Nginx Application servers and Docker containers to deploy applications.
+            - Identified, resolved, or provided recommendations on performance problems on multi-source replicas of Mariadb Database
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
