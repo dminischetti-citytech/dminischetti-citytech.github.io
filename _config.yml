@@ -88,15 +88,15 @@ content:
     layout: text # Type of content section (list/text)
     content: |
         <!--table><tr><td width="50%"--><ul>
+        <li>Web: PHP, ASP, JavaScript, CSS, HTML</li>
         <li>Development languages: Java, C++, VBA, COBOL, Clipper</li>
         <li>Database: SQL Server, MySQL, Oracle, Access </li>
         <li>Business Analytics: SSIS, Power BI</li>
-        <li>Application Server: Apache, IIS	</li>
         <!--/ul></td>
         <td width="50%"><ul-->
         <li>Analysis methodology: Functional Analysis, UML</li>
         <li>Operative Systems: Windows, OSX, Unix</li>
-        <li>Web: PHP, ASP, JavaScript, CSS, HTML</li>
+        <li>Application Server: Apache, IIS	</li>
         <li>Graphic Development: Photoshop, Illustrator</li>
         </ul><!--/td></tr></table-->
 # Footer
