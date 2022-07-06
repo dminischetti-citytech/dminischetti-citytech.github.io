@@ -47,7 +47,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Freelance
+        title: Appliances Connection
+        sub_title: Full Stack Developer
+        caption: May 2022 - Present
+        description: | # this will include new lines to allow paragraphs
+            - Full-Stack Developer (<mark>PHP</mark>/<mark>MySQL</mark>/<mark>Firebase</mark>/<mark>JS</mark>) responsible for building server-side web applications.
+      - layout: left
+        title: Kingsleague
         sub_title: Full Stack Developer
         caption: August 2021 - Present
         description: | # this will include new lines to allow paragraphs
