@@ -35,45 +35,6 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Full Stack Developer con 5+ anni di esperienza nella progettazione di applicazioni web utilizzando <mark>PHP</mark>, <mark>JS</mark>, <mark>MySQL</mark> e <mark>SQL Server</mark>. Abile nel risolvere problemi e lavorare in team interfunzionali. Laureato in Tecnologia dell'Informazione con una specializzazione in Databases. Sempre alla ricerca di tecnologie emergenti per creare interfacce intuitive e prestazioni ottimizzate.
 content:
-  - title: Formazione # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: New York City College of Technology
-        caption: 2020
-        sub_title: Bachelor Degree
-        description: Bachelor of Technology in Computer Systems, Database Specialization (GPA 3.7)
-          - Esperienza nello sviluppo di abilità di analisi dei dati in Oracle SQL Developer e Microsoft SQL Server per la progettazione e implementazione di più sistemi di gestione di database.
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Università degli Studi di Bari, Bari, Italia
-        caption: 2000
-        sub_title: Corsi in Informatica
-        description: 
-          - Acquisizione di competenze nella progettazione, sviluppo e implementazione di software utilizzando linguaggi di programmazione come Java, C++ e Python.
-
-
-
-content:
-  - title: Corsi Aggiuntivi # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-        description: | # this will include new lines to allow paragraphs
-          - Corso di MongoDB, MongoDB University, 2021
-          - Corso di Project Management, New York City College of Technology, 2019
-
-content:
-  - title: Lingue Conosciute # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-        description: | # this will include new lines to allow paragraphs
-          - Italiano (madrelingua)
-          - Inglese (madrelingua)
-          - Spagnolo (elementare)
-
-
-
   - title: Esperienza Professionale # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -118,6 +79,31 @@ content:
             - Creazione di siti web e applicazioni PHP, gestione di cataloghi, pubblicità editoriale e copywriting per l'immagine aziendale
             - Responsabile del design e della manutenzione di tutti i servizi web, inclusi banner pubblicitari, hosting e registrazione di nomi di dominio
             - Gestione della manutenzione del pannello operatore e del server <mark>Plesk</mark>, nonché attivazione di domini e caselle di posta elettronica e database <mark>SQL</mark>.
+  - title: Formazione # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: New York City College of Technology
+        caption: 2020
+        sub_title: Bachelor Degree
+        description: Bachelor of Technology in Computer Systems, Database Specialization (GPA 3.7)
+          - Esperienza nello sviluppo di abilità di analisi dei dati in Oracle SQL Developer e Microsoft SQL Server per la progettazione e implementazione di più sistemi di gestione di database.
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Università degli Studi di Bari, Bari, Italia
+        caption: 2000
+        sub_title: Corsi in Informatica
+        description: 
+          - Acquisizione di competenze nella progettazione, sviluppo e implementazione di software utilizzando linguaggi di programmazione come Java, C++ e Python.
+content:
+  - title: Corsi Aggiuntivi # Title for the section
+    layout: list # Type of content section (list/text)
+    content: |
+        <!--table><tr><td width="50%"--><ul>
+        <li>Corso di MongoDB, MongoDB University, 2021</li>
+        <li>Corso di Project Management, New York City College of Technology, 2019</li>
+        </ul><!--/td></tr></table-->
   - title: Competenze Tecniche # Title for the section
     layout: text # Type of content section (list/text)
     content: |
@@ -143,6 +129,15 @@ content:
         <li>Risoluzione creativa dei problemi</li>
         <li>Orientamento al risultato</li>
         <li>Capacità di apprendimento autonomo e di miglioramento continuo</li>
+        </ul><!--/td></tr></table-->
+content:
+  - title: Lingue Conosciute # Title for the section
+    layout: list # Type of content section (list/text)
+    content: |
+        <!--table><tr><td width="50%"--><ul>
+        <li>Italiano (madrelingua)</li>
+        <li>Inglese (madrelingua)</li>
+        <li>Spagnolo (elementare)</li>
         </ul><!--/td></tr></table-->
 # Footer
 footer_show_references: false
