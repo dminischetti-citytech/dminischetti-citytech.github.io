@@ -31,7 +31,7 @@ facebook_username: dominic.minischetti
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 about_title: Chi Sono
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Full Stack Developer con 5+ anni di esperienza nella progettazione di applicazioni web utilizzando <mark>PHP</mark>, <mark>JS</mark>, <mark>MySQL</mark> e <mark>SQL Server</mark>. Abile nel risolvere problemi e lavorare in team interfunzionali. Laureato in Tecnologia dell'Informazione con una specializzazione in Databases. Sempre alla ricerca di tecnologie emergenti per creare interfacce intuitive e prestazioni ottimizzate.
 content:
