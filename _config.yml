@@ -88,6 +88,7 @@ content:
         sub_title: Bachelor Degree
         description: Bachelor of Technology in Computer Systems, Database Specialization (GPA 3.7)
           - Esperienza nello sviluppo di abilità di analisi dei dati in Oracle SQL Developer e Microsoft SQL Server per la progettazione e implementazione di più sistemi di gestione di database.
+      - layout: left
         title: Università degli Studi di Bari, Bari, Italia
         caption: 2000
         sub_title: Corsi in Informatica
