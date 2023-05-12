@@ -33,61 +33,92 @@ facebook_username: dominic.minischetti
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Sviluppatore Full Stack con 5+ anni di esperienza nella progettazione di applicazioni web utilizzando PHP, JS, MySQL e SQL Server. Abile nel risolvere problemi e lavorare in team interfunzionali. Laureato in Tecnologia dell'Informazione con una specializzazione in Databases. Sempre alla ricerca di tecnologie emergenti per creare interfacce intuitive e prestazioni ottimizzate.
+  Full Stack Developer con 5+ anni di esperienza nella progettazione di applicazioni web utilizzando <mark>PHP</mark>, <mark>JS</mark>, <mark>MySQL</mark> e <mark>SQL Server</mark>. Abile nel risolvere problemi e lavorare in team interfunzionali. Laureato in Tecnologia dell'Informazione con una specializzazione in Databases. Sempre alla ricerca di tecnologie emergenti per creare interfacce intuitive e prestazioni ottimizzate.
 content:
-  - title: Education # Title for the section
+  - title: Formazione # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: New York City College of Technology
-        caption: 2015 - 2020
+        caption: 2020
         sub_title: Bachelor Degree
         description: Bachelor of Technology in Computer Systems, Database Specialization (GPA 3.7)
-  - title: Experience # Title for the section
+          - Esperienza nello sviluppo di abilità di analisi dei dati in Oracle SQL Developer e Microsoft SQL Server per la progettazione e implementazione di più sistemi di gestione di database.
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Università degli Studi di Bari, Bari, Italia
+        caption: 2000
+        sub_title: Corsi in Informatica
+        description: 
+          - Acquisizione di competenze nella progettazione, sviluppo e implementazione di software utilizzando linguaggi di programmazione come Java, C++ e Python.
+
+
+
+content:
+  - title: Corsi Aggiuntivi # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+        description: | # this will include new lines to allow paragraphs
+          - Corso di MongoDB, MongoDB University, 2021
+          - Corso di Project Management, New York City College of Technology, 2019
+
+content:
+  - title: Lingue Conosciute # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+        description: | # this will include new lines to allow paragraphs
+          - Italiano (madrelingua)
+          - Inglese (madrelingua)
+          - Spagnolo (elementare)
+
+
+
+  - title: Esperienza Professionale # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Polished
-        sub_title: Sviluppatore Full Stack
+        sub_title: Full Stack Developer
         caption: Maggio 2022 - Presente
         description: | # this will include new lines to allow paragraphs
-            - Progettazione e sviluppo del Sistema di Gestione di Magazzino con PHP, JS e MySQL
+            - Progettazione e sviluppo del Sistema di Gestione di Magazzino con <mark>PHP</mark>, <mark>JS</mark> e <mark>MySQL</mark>
             - Creazione di un'interfaccia intuitiva per l'applicazione di magazzino su dispositivi portatili
             - Collaborazione con team interfunzionali per garantire prestazioni ottimali del sistema
             - Contributo alla gestione senza soluzione di continuità del sistema di gestione del magazzino per il successo dell'azienda
       - layout: left
         title: Kingsleague
-        sub_title: Sviluppatore Full Stack
+        sub_title: Full Stack Developer
         caption: Agosto 2021 - Maggio 2022
         description: | # this will include new lines to allow paragraphs
-            - Costruzione di applicazioni web lato server con PHP, MySQL, Firebase e JS
-            - Risoluzione di problemi utilizzando Agile Kanban tramite JIRA e GIT per il versionamento
-            - Implementazione di funzionalità, sviluppo e ottimizzazione di software web con Nginx e Docker per il deployment
-            - Identificazione e risoluzione di problemi di prestazioni su repliche multi-source di Mariadb
+            - Costruzione di applicazioni web lato server con <mark>PHP</mark>, <mark>MySQL</mark>, <mark>Firebase</mark> e <mark>JS</mark>
+            - Risoluzione di problemi utilizzando Agile Kanban tramite <mark>JIRA</mark> e <mark>GIT</mark> per il versionamento
+            - Implementazione di funzionalità, sviluppo e ottimizzazione di software web con <mark>Nginx</mark> e <mark>Docker</mark> per il deployment
+            - Identificazione e risoluzione di problemi di prestazioni su repliche multi-source di <mark>Mariadb</mark>
       - layout: left
         title: Eiffel srl
-        sub_title: Analista di dati e Amministratore di Database
+        sub_title: Data Analyst e Database Administrator
         caption: Novembre 2012 - Ottobre 2015
         description: | # this will include new lines to allow paragraphs
             - Amministrazione dei database dei database SQL Server e tutoraggio degli amministratori meno esperti
             - Implementazione di soluzioni basate su SQL Server per consolidare l'acquisizione e la segnalazione dei dati
-            - Amministrazione quotidiana del database, come il monitoraggio di SQL Server e la gestione delle richieste degli utenti
+            - Amministrazione quotidiana del database, come il monitoraggio di <mark>SQL Server</mark> e la gestione delle richieste degli utenti
       - layout: left
         title: Call2U srl
-        sub_title: Analista di dati
+        sub_title: Data Analyst
         caption: Settembre 2010 - Novembre 2012
         description: | # this will include new lines to allow paragraphs
             - Diagnostica e risoluzione di problemi software, hardware e di connettività. 
-            - Trasferimento, progettazione, adattamento, installazione e manutenzione di molteplici istanze di Service Manager su piattaforma Windows con utilizzo di Microsoft SQL Server come backend T-SQL.
+            - Trasferimento, progettazione, adattamento, installazione e manutenzione di molteplici istanze di <mark>Service Manager</mark> su piattaforma Windows con utilizzo di Microsoft <mark>SQL Server</mark> come backend <mark>T-SQL</mark>.
       - layout: left
         title: ASD Servizi
-        sub_title: Sviluppatore Frontend
+        sub_title: Frontend Developer
         caption: Dicembre 2006 - Aprile 2008
         description: | # this will include new lines to allow paragraphs
             - Creazione di siti web e applicazioni PHP, gestione di cataloghi, pubblicità editoriale e copywriting per l'immagine aziendale
             - Responsabile del design e della manutenzione di tutti i servizi web, inclusi banner pubblicitari, hosting e registrazione di nomi di dominio
-            - Gestione della manutenzione del pannello operatore e del server Plesk, nonché attivazione di domini e caselle di posta elettronica e database SQL.
-  - title: Skills # Title for the section
+            - Gestione della manutenzione del pannello operatore e del server <mark>Plesk</mark>, nonché attivazione di domini e caselle di posta elettronica e database <mark>SQL</mark>.
+  - title: Competenze Tecniche # Title for the section
     layout: text # Type of content section (list/text)
     content: |
         <!--table><tr><td width="50%"--><ul>
@@ -100,6 +131,18 @@ content:
         <li>Database: SQL Server, MySQL, MariaDB, MongoDB</li>
         <li>Metodologia di sviluppo: Agile</li>
         <li>Conoscenze di base di sistemi operativi e server: Linux, Apache</li>
+        </ul><!--/td></tr></table-->
+  - title: Soft Skills # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+        <!--table><tr><td width="50%"--><ul>
+        <li>Capacità di lavorare in team</li>
+        <li>Comunicazione efficace</li>
+        <li>Gestione del tempo</li>
+        <li>Adattabilità ai cambiamenti</li>
+        <li>Risoluzione creativa dei problemi</li>
+        <li>Orientamento al risultato</li>
+        <li>Capacità di apprendimento autonomo e di miglioramento continuo</li>
         </ul><!--/td></tr></table-->
 # Footer
 footer_show_references: false
