@@ -88,9 +88,6 @@ content:
         sub_title: Bachelor Degree
         description: Bachelor of Technology in Computer Systems, Database Specialization (GPA 3.7)
           - Esperienza nello sviluppo di abilità di analisi dei dati in Oracle SQL Developer e Microsoft SQL Server per la progettazione e implementazione di più sistemi di gestione di database.
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
         title: Università degli Studi di Bari, Bari, Italia
         caption: 2000
         sub_title: Corsi in Informatica
@@ -104,7 +101,7 @@ content:
         <li>Corso di Project Management, New York City College of Technology, 2019</li>
         </ul><!--/td></tr></table-->
   - title: Competenze Tecniche # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content: |
         <!--table><tr><td width="50%"--><ul>
         <li>Linguaggi di programmazione: PHP, Python, JavaScript</li>
