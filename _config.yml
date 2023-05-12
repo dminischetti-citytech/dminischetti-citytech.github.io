@@ -85,15 +85,14 @@ content:
       - layout: left
         title: New York City College of Technology
         caption: 2020
-        sub_title: Bachelor Degree
-        description: Bachelor of Technology in Computer Systems, Database Specialization (GPA 3.7)
+        sub_title: Bachelor Degree (GPA 3.7/4)
+        description: Bachelor of Technology in Computer Systems, Database Specialization
           - Esperienza nello sviluppo di abilità di analisi dei dati in Oracle SQL Developer e Microsoft SQL Server per la progettazione e implementazione di più sistemi di gestione di database.
       - layout: left
         title: Università degli Studi di Bari, Bari, Italia
         caption: 2000
         sub_title: Corsi in Informatica
-        description: 
-          - Acquisizione di competenze nella progettazione, sviluppo e implementazione di software utilizzando linguaggi di programmazione come Java, C++ e Python.
+        description: Acquisizione di competenze nella progettazione, sviluppo e implementazione di software utilizzando linguaggi di programmazione come Java, C++ e Python.
   - title: Corsi Aggiuntivi # Title for the section
     layout: list # Type of content section (list/text)
     content: |
