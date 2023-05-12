@@ -6,9 +6,9 @@ version: 2
 
 # Personal info
 name: Dominic Minischetti
-title: Full Stack Developer & Database Administrator
-email: dominic@minischetti.me
-# website: www.minischetti.me
+title: Sviluppatore Full Stack
+email: dominic.minischetti@gmail.com
+website: www.minischetti.me
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -33,7 +33,7 @@ facebook_username: dominic.minischetti
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Technical, dedicated professional with over 5 years of focused experience as a <mark>Data Analyst</mark> and <mark>SQL DBA</mark> with exceptional analytical, problem-solving, and communication skills looking for position within your organization in order to enhance my skills. 
+  Sviluppatore Full Stack con 5+ anni di esperienza nella progettazione di applicazioni web utilizzando PHP, JS, MySQL e SQL Server. Abile nel risolvere problemi e lavorare in team interfunzionali. Laureato in Tecnologia dell'Informazione con una specializzazione in Databases. Sempre alla ricerca di tecnologie emergenti per creare interfacce intuitive e prestazioni ottimizzate.
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -47,57 +47,59 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Appliances Connection
-        sub_title: Full Stack Developer
-        caption: May 2022 - Present
+        title: Polished
+        sub_title: Sviluppatore Full Stack
+        caption: Maggio 2022 - Presente
         description: | # this will include new lines to allow paragraphs
-            - Full-Stack Developer (<mark>PHP</mark>/<mark>MySQL</mark>/<mark>JS</mark>) responsible for building server-side web applications.
+            - Progettazione e sviluppo del Sistema di Gestione di Magazzino con PHP, JS e MySQL
+            - Creazione di un'interfaccia intuitiva per l'applicazione di magazzino su dispositivi portatili
+            - Collaborazione con team interfunzionali per garantire prestazioni ottimali del sistema
+            - Contributo alla gestione senza soluzione di continuità del sistema di gestione del magazzino per il successo dell'azienda
       - layout: left
         title: Kingsleague
-        sub_title: Full Stack Developer
-        caption: August 2021 - Present
+        sub_title: Sviluppatore Full Stack
+        caption: Agosto 2021 - Maggio 2022
         description: | # this will include new lines to allow paragraphs
-            - Full-Stack Developer (<mark>PHP</mark>/<mark>MySQL</mark>/<mark>Firebase</mark>/<mark>JS</mark>) responsible for building server-side web applications.
-            - Troubleshooted issues affecting production, stage, and development environments using Agile Kanban through <mark>JIRA</mark> and <mark>GIT</mark> versioning systems for project management.
-            - Played a key role in the feature implementation, development, improvement, and operation of web-based software using <mark>Nginx</mark> Application servers and <mark>Docker</mark> containers to deploy applications.
-            - Identified, resolved, or provided recommendations on performance problems on multi-source replicas of <mark>Mariadb</mark> Database
+            - Costruzione di applicazioni web lato server con PHP, MySQL, Firebase e JS
+            - Risoluzione di problemi utilizzando Agile Kanban tramite JIRA e GIT per il versionamento
+            - Implementazione di funzionalità, sviluppo e ottimizzazione di software web con Nginx e Docker per il deployment
+            - Identificazione e risoluzione di problemi di prestazioni su repliche multi-source di Mariadb
       - layout: left
         title: Eiffel srl
-        sub_title: Data Analyst and Database Administrator
-        caption: November 2012 - October 2015
+        sub_title: Analista di dati e Amministratore di Database
+        caption: Novembre 2012 - Ottobre 2015
         description: | # this will include new lines to allow paragraphs
-            - Responsible for providing database administration of <mark>SQL Server</mark> databases and mentoring less experienced administrators. 
-            - Implemented SQL Server based solution to consolidate data collection and reporting applications.
-            - Performed day to day DBA activities such as monitoring SQL Server, addressing user requirements. 
+            - Amministrazione dei database dei database SQL Server e tutoraggio degli amministratori meno esperti
+            - Implementazione di soluzioni basate su SQL Server per consolidare l'acquisizione e la segnalazione dei dati
+            - Amministrazione quotidiana del database, come il monitoraggio di SQL Server e la gestione delle richieste degli utenti
       - layout: left
         title: Call2U srl
-        sub_title: Data Analyst
-        caption: September 2010 - November 2012
+        sub_title: Analista di dati
+        caption: Settembre 2010 - Novembre 2012
         description: | # this will include new lines to allow paragraphs
-            - Diagnosed, troubleshoot and resolved a range of software, hardware and connectivity issues. 
-            - Transitioned, designed, tailored, installed, and maintained multiple instances of Service Manager in Windows with Microsoft SQL Server and <mark>T-SQL</mark> backends.
+            - Diagnostica e risoluzione di problemi software, hardware e di connettività. 
+            - Trasferimento, progettazione, adattamento, installazione e manutenzione di molteplici istanze di Service Manager su piattaforma Windows con utilizzo di Microsoft SQL Server come backend T-SQL.
       - layout: left
         title: ASD Servizi
-        sub_title: Web Developer
-        caption: December 2006 - April 2008
+        sub_title: Sviluppatore Frontend
+        caption: Dicembre 2006 - Aprile 2008
         description: | # this will include new lines to allow paragraphs
-            - Website creation and <mark>PHP</mark> Application Management, editing catalogs, editorial advertising, drafting advertising of web and paper for company image.
-            - Responsible for all web services: design, renovation, banners, hosting and domain name registration.
-            - Operator Panel and <mark>Plesk</mark> server maintenance and activation domains and mailboxes, <mark>SQL</mark> databases
+            - Creazione di siti web e applicazioni PHP, gestione di cataloghi, pubblicità editoriale e copywriting per l'immagine aziendale
+            - Responsabile del design e della manutenzione di tutti i servizi web, inclusi banner pubblicitari, hosting e registrazione di nomi di dominio
+            - Gestione della manutenzione del pannello operatore e del server Plesk, nonché attivazione di domini e caselle di posta elettronica e database SQL.
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
         <!--table><tr><td width="50%"--><ul>
-        <li>Web: PHP, ASP, JavaScript, CSS, HTML</li>
-        <li>Development languages: Java, C++, VBA, COBOL, Clipper</li>
-        <li>Database: SQL Server, MySQL, Oracle, Access </li>
-        <li>Business Analytics: SSIS, Power BI</li>
+        <li>Linguaggi di programmazione: PHP, Python, JavaScript</li>
+        <li>Framework e librerie: Bootstrap, jQuery, Smarty</li>
+        <li>Architettura di sviluppo: Model-View-Controller (MVC)</li>
         <!--/ul></td>
         <td width="50%"><ul-->
-        <li>Analysis methodology: Functional Analysis, UML</li>
-        <li>Operative Systems: Windows, OSX, Unix</li>
-        <li>Application Server: Apache, IIS	</li>
-        <li>Graphic Development: Photoshop, Illustrator</li>
+        <li>Sviluppo di API: REST API</li>
+        <li>Database: SQL Server, MySQL, MariaDB, MongoDB</li>
+        <li>Metodologia di sviluppo: Agile</li>
+        <li>Conoscenze di base di sistemi operativi e server: Linux, Apache</li>
         </ul><!--/td></tr></table-->
 # Footer
 footer_show_references: false
