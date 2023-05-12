@@ -94,14 +94,14 @@ content:
         sub_title: Corsi in Informatica
         description: Acquisizione di competenze nella progettazione, sviluppo e implementazione di software utilizzando linguaggi di programmazione come Java, C++ e Python.
   - title: Corsi Aggiuntivi # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content: |
         <!--table><tr><td width="50%"--><ul>
         <li>Corso di MongoDB, MongoDB University, 2021</li>
         <li>Corso di Project Management, New York City College of Technology, 2019</li>
         </ul><!--/td></tr></table-->
   - title: Competenze Tecniche # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content: |
         <!--table><tr><td width="50%"--><ul>
         <li>Linguaggi di programmazione: PHP, Python, JavaScript</li>
@@ -127,7 +127,7 @@ content:
         <li>Capacità di apprendimento autonomo e di miglioramento continuo</li>
         </ul><!--/td></tr></table-->
   - title: Lingue Conosciute # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content: |
         <!--table><tr><td width="50%"--><ul>
         <li>Italiano (madrelingua)</li>
