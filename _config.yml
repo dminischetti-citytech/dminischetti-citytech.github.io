@@ -96,7 +96,6 @@ content:
         sub_title: Corsi in Informatica
         description: 
           - Acquisizione di competenze nella progettazione, sviluppo e implementazione di software utilizzando linguaggi di programmazione come Java, C++ e Python.
-content:
   - title: Corsi Aggiuntivi # Title for the section
     layout: list # Type of content section (list/text)
     content: |
@@ -130,7 +129,6 @@ content:
         <li>Orientamento al risultato</li>
         <li>Capacità di apprendimento autonomo e di miglioramento continuo</li>
         </ul><!--/td></tr></table-->
-content:
   - title: Lingue Conosciute # Title for the section
     layout: list # Type of content section (list/text)
     content: |
