@@ -61,7 +61,7 @@ content:
         sub_title: Data Analyst e Database Administrator
         caption: Novembre 2012 - Ottobre 2015
         description: | # this will include new lines to allow paragraphs
-            - Amministrazione dei database dei database SQL Server e tutoraggio degli amministratori meno esperti
+            - Amministrazione dei database <mark>SQL Server</mark> e tutoraggio degli amministratori meno esperti
             - Implementazione di soluzioni basate su SQL Server per consolidare l'acquisizione e la segnalazione dei dati
             - Amministrazione quotidiana del database, come il monitoraggio di <mark>SQL Server</mark> e la gestione delle richieste degli utenti
       - layout: left
@@ -70,7 +70,7 @@ content:
         caption: Settembre 2010 - Novembre 2012
         description: | # this will include new lines to allow paragraphs
             - Diagnostica e risoluzione di problemi software, hardware e di connettività. 
-            - Trasferimento, progettazione, adattamento, installazione e manutenzione di molteplici istanze di <mark>Service Manager</mark> su piattaforma Windows con utilizzo di Microsoft <mark>SQL Server</mark> come backend <mark>T-SQL</mark>.
+            - Trasferimento, progettazione, adattamento, installazione e manutenzione di molteplici istanze di <mark>Service Manager</mark> su piattaforma Windows con utilizzo di <mark>Microsoft SQL Server</mark> come backend <mark>T-SQL</mark>.
       - layout: left
         title: ASD Servizi
         sub_title: Frontend Developer
@@ -87,18 +87,18 @@ content:
         caption: 2020
         sub_title: Bachelor Degree (GPA 3.7/4)
         description: Bachelor of Technology in Computer Systems, Database Specialization
-          - Esperienza nello sviluppo di abilità di analisi dei dati in Oracle SQL Developer e Microsoft SQL Server per la progettazione e implementazione di più sistemi di gestione di database.
+          - Esperienza nello sviluppo di abilità di analisi dei dati in <mark>Oracle SQL Developer</mark> e <mark>Microsoft SQL Server</mark> per la progettazione e implementazione di più sistemi di gestione di database.
       - layout: left
         title: Università degli Studi di Bari, Bari, Italia
         caption: 2000
         sub_title: Corsi in Informatica
-        description: Acquisizione di competenze nella progettazione, sviluppo e implementazione di software utilizzando linguaggi di programmazione come Java, C++ e Python.
+        description: Acquisizione di competenze nella progettazione, sviluppo e implementazione di software utilizzando linguaggi di programmazione come <mark>Java</mark>, <mark>C++</mark> e <mark>Python</mark>.
   - title: Corsi Aggiuntivi # Title for the section
     layout: text # Type of content section (list/text)
     content: |
         <!--table><tr><td width="50%"--><ul>
-        <li>Corso di MongoDB, MongoDB University, 2021</li>
-        <li>Corso di Project Management, New York City College of Technology, 2019</li>
+        <li>Corso di <mark>MongoDB</mark>, MongoDB University, 2021</li>
+        <li>Corso di <mark>Project Management</mark>, New York City College of Technology, 2019</li>
         </ul><!--/td></tr></table-->
   - title: Competenze Tecniche # Title for the section
     layout: text # Type of content section (list/text)
