@@ -57,7 +57,7 @@ content:
             - Implementazione di funzionalità, sviluppo e ottimizzazione di software web con <mark>Nginx</mark> e <mark>Docker</mark> per il deployment
             - Identificazione e risoluzione di problemi di prestazioni su repliche multi-source di <mark>Mariadb</mark>
       - layout: left
-        title: Data Analyst e Database Administrator
+        title: Data Analyst e DBA
         sub_title: Eiffel srl
         caption: Novembre 2012 - Ottobre 2015
         description: | # this will include new lines to allow paragraphs
