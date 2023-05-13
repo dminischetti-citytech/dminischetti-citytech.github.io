@@ -97,8 +97,8 @@ content:
     layout: text # Type of content section (list/text)
     content: |
         <!--table><tr><td width="50%"--><ul>
-        <li>Corso di MongoDB, MongoDB University, 2021</li>
-        <li>Corso di Project Management, New York City College of Technology, 2019</li>
+        <li><b>Corso di MongoDB</b>, MongoDB University, 2021</li>
+        <li><b>Corso di Project Management</b>, New York City College of Technology, 2019</li>
         </ul><!--/td></tr></table-->
   - title: Competenze Tecniche # Title for the section
     layout: text # Type of content section (list/text)
