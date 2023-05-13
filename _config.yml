@@ -40,7 +40,7 @@ content:
     content:
       - layout: left
         title: Full Stack Developer
-        sub_title: Polished
+        sub_title: Polished.Com Inc
         caption: Maggio 2022 - Presente
         description: | # this will include new lines to allow paragraphs
             - Progettazione e sviluppo del Sistema di Gestione di Magazzino con <mark>PHP</mark>, <mark>JS</mark> e <mark>MySQL</mark>
@@ -49,7 +49,7 @@ content:
             - Contributo alla gestione senza soluzione di continuità del sistema di gestione del magazzino per il successo dell'azienda
       - layout: left
         title: Full Stack Developer
-        sub_title: Kingsleague
+        sub_title: Kingsleague GmbH
         caption: Agosto 2021 - Maggio 2022
         description: | # this will include new lines to allow paragraphs
             - Costruzione di applicazioni web lato server con <mark>PHP</mark>, <mark>MySQL</mark>, <mark>Firebase</mark> e <mark>JS</mark>
