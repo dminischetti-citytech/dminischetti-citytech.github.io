@@ -86,7 +86,7 @@ content:
         title: New York City College of Technology
         caption: 2020
         sub_title: Bachelor Degree (GPA 3.7/4)
-        description: Bachelor of Technology in Computer Systems, Database Specialization
+        description: Bachelor of Technology in Computer Systems, Database Specialization<br>
           - Esperienza nello sviluppo di abilità di analisi dei dati in <mark>Oracle SQL Developer</mark> e <mark>Microsoft SQL Server</mark> per la progettazione e implementazione di più sistemi di gestione di database.
       - layout: left
         title: Università degli Studi di Bari, Bari, Italia
