@@ -43,10 +43,10 @@ content:
         sub_title: Full Stack Developer
         caption: Maggio 2022 - Presente
         description: | # this will include new lines to allow paragraphs
-            Progettazione e sviluppo del Sistema di Gestione di Magazzino con <mark>PHP</mark>, <mark>JS</mark> e <mark>MySQL</mark>
-            Creazione di un'interfaccia intuitiva per l'applicazione di magazzino su dispositivi portatili
-            Collaborazione con team interfunzionali per garantire prestazioni ottimali del sistema
-            Contributo alla gestione senza soluzione di continuità del sistema di gestione del magazzino per il successo dell'azienda
+            - Progettazione e sviluppo del Sistema di Gestione di Magazzino con <mark>PHP</mark>, <mark>JS</mark> e <mark>MySQL</mark>
+            - Creazione di un'interfaccia intuitiva per l'applicazione di magazzino su dispositivi portatili
+            - Collaborazione con team interfunzionali per garantire prestazioni ottimali del sistema
+            - Contributo alla gestione senza soluzione di continuità del sistema di gestione del magazzino per il successo dell'azienda
       - layout: left
         title: Kingsleague
         sub_title: Full Stack Developer
@@ -62,7 +62,7 @@ content:
         caption: Novembre 2012 - Ottobre 2015
         description: | # this will include new lines to allow paragraphs
             - Amministrazione dei database <mark>SQL Server</mark> e tutoraggio degli amministratori meno esperti
-            - Implementazione di soluzioni basate su SQL Server per consolidare l'acquisizione e la segnalazione dei dati
+            - Implementazione di soluzioni basate su <mark>SQL Server</mark> per consolidare l'acquisizione e la segnalazione dei dati
             - Amministrazione quotidiana del database, come il monitoraggio di <mark>SQL Server</mark> e la gestione delle richieste degli utenti
       - layout: left
         title: Call2U srl
@@ -76,7 +76,7 @@ content:
         sub_title: Frontend Developer
         caption: Dicembre 2006 - Aprile 2008
         description: | # this will include new lines to allow paragraphs
-            - Creazione di siti web e applicazioni PHP, gestione di cataloghi, pubblicità editoriale e copywriting per l'immagine aziendale
+            - Creazione di siti web e applicazioni <mark>PHP</mark>, gestione di cataloghi, pubblicità editoriale e copywriting per l'immagine aziendale
             - Responsabile del design e della manutenzione di tutti i servizi web, inclusi banner pubblicitari, hosting e registrazione di nomi di dominio
             - Gestione della manutenzione del pannello operatore e del server <mark>Plesk</mark>, nonché attivazione di domini e caselle di posta elettronica e database <mark>SQL</mark>.
   - title: Formazione # Title for the section
