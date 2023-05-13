@@ -39,8 +39,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Polished
-        sub_title: Full Stack Developer
+        title: Full Stack Developer
+        sub_title: Polished
         caption: Maggio 2022 - Presente
         description: | # this will include new lines to allow paragraphs
             - Progettazione e sviluppo del Sistema di Gestione di Magazzino con <mark>PHP</mark>, <mark>JS</mark> e <mark>MySQL</mark>
@@ -48,8 +48,8 @@ content:
             - Collaborazione con team interfunzionali per garantire prestazioni ottimali del sistema
             - Contributo alla gestione senza soluzione di continuità del sistema di gestione del magazzino per il successo dell'azienda
       - layout: left
-        title: Kingsleague
-        sub_title: Full Stack Developer
+        title: Full Stack Developer
+        sub_title: Kingsleague
         caption: Agosto 2021 - Maggio 2022
         description: | # this will include new lines to allow paragraphs
             - Costruzione di applicazioni web lato server con <mark>PHP</mark>, <mark>MySQL</mark>, <mark>Firebase</mark> e <mark>JS</mark>
@@ -57,23 +57,23 @@ content:
             - Implementazione di funzionalità, sviluppo e ottimizzazione di software web con <mark>Nginx</mark> e <mark>Docker</mark> per il deployment
             - Identificazione e risoluzione di problemi di prestazioni su repliche multi-source di <mark>Mariadb</mark>
       - layout: left
-        title: Eiffel srl
-        sub_title: Data Analyst e Database Administrator
+        title: Data Analyst e Database Administrator
+        sub_title: Eiffel srl
         caption: Novembre 2012 - Ottobre 2015
         description: | # this will include new lines to allow paragraphs
             - Amministrazione dei database <mark>SQL Server</mark> e tutoraggio degli amministratori meno esperti
             - Implementazione di soluzioni basate su <mark>SQL Server</mark> per consolidare l'acquisizione e la segnalazione dei dati
             - Amministrazione quotidiana del database, come il monitoraggio di <mark>SQL Server</mark> e la gestione delle richieste degli utenti
       - layout: left
-        title: Call2U srl
-        sub_title: Data Analyst
+        title: Data Analyst
+        sub_title: Call2U srl
         caption: Settembre 2010 - Novembre 2012
         description: | # this will include new lines to allow paragraphs
             - Diagnostica e risoluzione di problemi software, hardware e di connettività. 
             - Trasferimento, progettazione, adattamento, installazione e manutenzione di molteplici istanze di <mark>Service Manager</mark> su piattaforma Windows con utilizzo di <mark>Microsoft SQL Server</mark> come backend <mark>T-SQL</mark>.
       - layout: left
-        title: ASD Servizi
-        sub_title: Frontend Developer
+        title: Frontend Developer
+        sub_title: ASD Servizi
         caption: Dicembre 2006 - Aprile 2008
         description: | # this will include new lines to allow paragraphs
             - Creazione di siti web e applicazioni <mark>PHP</mark>, gestione di cataloghi, pubblicità editoriale e copywriting per l'immagine aziendale
