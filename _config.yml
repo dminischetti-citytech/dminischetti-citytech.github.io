@@ -30,109 +30,108 @@ facebook_username: dominic.minischetti
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
-about_title: Chi Sono
+about_title: About me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Full Stack Developer con 5+ anni di esperienza nella progettazione di applicazioni web utilizzando <mark>PHP</mark>, <mark>JS</mark>, <mark>MySQL</mark> e <mark>SQL Server</mark>. Abile nel risolvere problemi e lavorare in team interfunzionali. Laureato in Tecnologia dell'Informazione con una specializzazione in Databases. Sempre alla ricerca di tecnologie emergenti per creare interfacce intuitive e prestazioni ottimizzate.
+  Full Stack Developer with 5+ years of experience in designing web applications using PHP, JS, MySQL, and SQL Server. Skilled at problem-solving and working in cross-functional teams. Graduated in Information Technology with a specialization in Databases. Always eager to explore emerging technologies for creating intuitive interfaces and optimizing performance.
 content:
-  - title: Esperienza Professionale # Title for the section
+  - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Full Stack Developer
         sub_title: Polished.Com Inc
-        caption: Maggio 2022 - Presente
+        caption: May 2022 - Present
         description: | # this will include new lines to allow paragraphs
-            - Progettazione e sviluppo del Sistema di Gestione di Magazzino con <mark>PHP</mark>, <mark>JS</mark> e <mark>MySQL</mark>
-            - Creazione di un'interfaccia intuitiva per l'applicazione di magazzino su dispositivi portatili
-            - Collaborazione con team interfunzionali per garantire prestazioni ottimali del sistema
-            - Contributo alla gestione senza soluzione di continuità del sistema di gestione del magazzino per il successo dell'azienda
+            - Designed and developed a Warehouse Management System using PHP, JS, and MySQL.
+            - Created an intuitive interface for the mobile application of the warehouse system.
+            - Collaborated with cross-functional teams to ensure optimal system performance.
+            - Contributed to the seamless management of the warehouse system for company success.
       - layout: left
         title: Full Stack Developer
         sub_title: Kingsleague GmbH
-        caption: Agosto 2021 - Maggio 2022
+        caption: August 2021 - May 2022
         description: | # this will include new lines to allow paragraphs
-            - Costruzione di applicazioni web lato server con <mark>PHP</mark>, <mark>MySQL</mark>, <mark>Firebase</mark> e <mark>JS</mark>
-            - Risoluzione di problemi utilizzando Agile Kanban tramite <mark>JIRA</mark> e <mark>GIT</mark> per il versionamento
-            - Implementazione di funzionalità, sviluppo e ottimizzazione di software web con <mark>Nginx</mark> e <mark>Docker</mark> per il deployment
-            - Identificazione e risoluzione di problemi di prestazioni su repliche multi-source di <mark>Mariadb</mark>
+            - Built server-side web applications using PHP, MySQL, Firebase, and JS.
+            - Troubleshot using Agile Kanban via JIRA and GIT for versioning.
+            - Implemented, developed, and optimized web software with Nginx and Docker for deployment.
+            - Identified and fixed performance issues on multi-source Mariadb replicas.
       - layout: left
-        title: Data Analyst e DBA
+        title: DBA & Data Analyst
         sub_title: Eiffel srl
-        caption: Novembre 2012 - Ottobre 2015
+        caption: November 2012 - October 2015
         description: | # this will include new lines to allow paragraphs
-            - Amministrazione dei database <mark>SQL Server</mark> e tutoraggio degli amministratori meno esperti
-            - Implementazione di soluzioni basate su <mark>SQL Server</mark> per consolidare l'acquisizione e la segnalazione dei dati
-            - Amministrazione quotidiana del database, come il monitoraggio di <mark>SQL Server</mark> e la gestione delle richieste degli utenti
+            - Administered SQL Server databases and provided tutoring to less experienced administrators.
+            - Implemented SQL Server-based solutions for data consolidation and reporting.
+            - Handled daily database administration tasks, including monitoring SQL Server and managing user requests.
       - layout: left
         title: Data Analyst
         sub_title: Call2U srl
-        caption: Settembre 2010 - Novembre 2012
+        caption: September 2010 - November 2012
         description: | # this will include new lines to allow paragraphs
-            - Diagnostica e risoluzione di problemi software, hardware e di connettività. 
-            - Trasferimento, progettazione, adattamento, installazione e manutenzione di molteplici istanze di <mark>Service Manager</mark> su piattaforma Windows con utilizzo di <mark>Microsoft SQL Server</mark> come backend <mark>T-SQL</mark>.
+            - Diagnosed and resolved software, hardware, and connectivity issues.
+            - Transferred, designed, adapted, installed, and maintained multiple instances of Service Manager on Windows platform using Microsoft SQL Server as T-SQL backend.
       - layout: left
         title: Frontend Developer
         sub_title: ASD Servizi
-        caption: Dicembre 2006 - Aprile 2008
+        caption: December 2006 - April 2008
         description: | # this will include new lines to allow paragraphs
-            - Creazione di siti web e applicazioni <mark>PHP</mark>, gestione di cataloghi, pubblicità editoriale e copywriting per l'immagine aziendale
-            - Responsabile del design e della manutenzione di tutti i servizi web, inclusi banner pubblicitari, hosting e registrazione di nomi di dominio
-            - Gestione della manutenzione del pannello operatore e del server <mark>Plesk</mark>, nonché attivazione di domini e caselle di posta elettronica e database <mark>SQL</mark>.
-  - title: Formazione # Title for the section
+            - Created websites and PHP applications, managed catalogs, and performed editorial advertising and copywriting for corporate image.
+            - Responsible for the design and maintenance of web services, including banner ads, hosting, domain name registration.
+            - Managed operator panel, Plesk server maintenance, domain and mailbox activation, and SQL database management.
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: New York City College of Technology
         caption: 2020
         sub_title: Bachelor Degree (GPA 3.7/4)
-        description: Bachelor of Technology in Computer Systems, Database Specialization<br>
-          Esperienza nello sviluppo di abilità di analisi dei dati in <mark>Oracle SQL Developer</mark> e <mark>Microsoft SQL Server</mark> per la progettazione e implementazione di più sistemi di gestione di database.
+        description: Bachelor of Technology in Computer Systems, Database Specialization. <br>Developed data analysis skills using Oracle SQL Developer and Microsoft SQL Server for designing and implementing multiple database management systems.
       - layout: left
-        title: Università degli Studi di Bari, Bari, Italia
+        title: University of Bari, Bari, Italy
         caption: 2000
-        sub_title: Corsi in Informatica
-        description: Acquisizione di competenze nella progettazione, sviluppo e implementazione di software utilizzando linguaggi di programmazione come <mark>Java</mark>, <mark>C++</mark> e <mark>Python</mark>.
-  - title: Corsi Aggiuntivi # Title for the section
+        sub_title: Courses in Computer Science
+        description: Acquired skills in designing, developing, and implementing software using programming languages such as Java, C++, and Python.
+  - title: Additional Courses # Title for the section
     layout: text # Type of content section (list/text)
     content: |
         <!--table><tr><td width="50%"--><ul>
-        <li><b>Corso di MongoDB</b>, MongoDB University, 2021</li>
-        <li><b>Corso di Project Management</b>, New York City College of Technology, 2019</li>
+        <li><b>MongoDB Course</b>, MongoDB University, 2021</li>
+        <li><b>Project Management Course</b>, New York City College of Technology, 2019</li>
         </ul><!--/td></tr></table-->
-  - title: Competenze Tecniche # Title for the section
+  - title: Technical Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
         <!--table><tr><td width="50%"--><ul>
-        <li>Linguaggi di programmazione: PHP, Python, JavaScript</li>
-        <li>Framework e librerie: Bootstrap, jQuery, Smarty</li>
-        <li>Architettura di sviluppo: Model-View-Controller (MVC)</li>
+        <li>Programming languages: PHP, Python, JavaScript</li>
+        <li>Framework and libraries: Bootstrap, jQuery, Smarty</li>
+        <li>Development architecture: Model-View-Controller (MVC)</li>
         <!--/ul></td>
         <td width="50%"><ul-->
-        <li>Sviluppo di API: REST API</li>
-        <li>Database: SQL Server, MySQL, MariaDB, MongoDB</li>
-        <li>Metodologia di sviluppo: Agile</li>
-        <li>Conoscenze di base di sistemi operativi e server: Linux, Apache</li>
+        <li>API Development: REST API</li>
+        <li>Databases: SQL Server, MySQL, MariaDB, MongoDB</li>
+        <li>Development metodology: Agile</li>
+        <li>Operating systems and servers: Linux, Apache</li>
         </ul><!--/td></tr></table-->
   - title: Soft Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
         <!--table><tr><td width="50%"--><ul>
-        <li>Capacità di lavorare in team</li>
-        <li>Comunicazione efficace</li>
-        <li>Gestione del tempo</li>
-        <li>Adattabilità ai cambiamenti</li>
-        <li>Risoluzione creativa dei problemi</li>
-        <li>Orientamento al risultato</li>
-        <li>Capacità di apprendimento autonomo e di miglioramento continuo</li>
+        <li>Teamworking</li>
+        <li>Effective communication</li>
+        <li>Time management</li>
+        <li>Adaptability</li>
+        <li>Creative problem-solving</li>
+        <li>Result-oriented</li>
+        <li>Self-learning and continuous improvement</li>
         </ul><!--/td></tr></table-->
-  - title: Lingue Conosciute # Title for the section
+  - title: Languages # Title for the section
     layout: text # Type of content section (list/text)
     content: |
         <!--table><tr><td width="50%"--><ul>
-        <li>Italiano (madrelingua)</li>
-        <li>Inglese (madrelingua)</li>
-        <li>Spagnolo (elementare)</li>
+        <li>Italian (native speaker)</li>
+        <li>English (fluent)</li>
+        <li>Spanish (elementary level)</li>
         </ul><!--/td></tr></table-->
 # Footer
 footer_show_references: false
