@@ -42,7 +42,7 @@ content:
         title: Full Stack Developer
         sub_title: Polished.Com Inc
         caption: May 2022 - Present
-        quote: Test
+        PROVA
         description: | # this will include new lines to allow paragraphs
             - Designed and developed a Warehouse Management System using <mark>PHP</mark>, <mark>JS</mark>, and <mark>MySQL</mark>.
             - Created an intuitive interface for the mobile application of the warehouse system.
