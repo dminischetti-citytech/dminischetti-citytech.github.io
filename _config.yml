@@ -33,7 +33,7 @@ facebook_username: dominic.minischetti
 about_title: About me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Full Stack Developer with 5+ years of experience in designing web applications using PHP, JS, MySQL, and SQL Server. Skilled at problem-solving and working in cross-functional teams. Graduated in Information Technology with a specialization in Databases. Always eager to explore emerging technologies for creating intuitive interfaces and optimizing performance.
+  Full Stack Developer with 5+ years of experience in designing web applications using <mark>PHP</mark>, <mark>JS</mark>, <mark>MySQL</mark>, and <mark>SQL Server</mark>. Skilled at problem-solving and working in cross-functional teams. Graduated in Information Technology with a specialization in Databases. Always eager to explore emerging technologies for creating intuitive interfaces and optimizing performance.
 content:
   - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -43,7 +43,7 @@ content:
         sub_title: Polished.Com Inc
         caption: May 2022 - Present
         description: | # this will include new lines to allow paragraphs
-            - Designed and developed a Warehouse Management System using PHP, JS, and MySQL.
+            - Designed and developed a Warehouse Management System using <mark>PHP</mark>, <mark>JS</mark>, and <mark>MySQL</mark>.
             - Created an intuitive interface for the mobile application of the warehouse system.
             - Collaborated with cross-functional teams to ensure optimal system performance.
             - Contributed to the seamless management of the warehouse system for company success.
@@ -52,33 +52,33 @@ content:
         sub_title: Kingsleague GmbH
         caption: August 2021 - May 2022
         description: | # this will include new lines to allow paragraphs
-            - Built server-side web applications using PHP, MySQL, Firebase, and JS.
-            - Troubleshot using Agile Kanban via JIRA and GIT for versioning.
-            - Implemented, developed, and optimized web software with Nginx and Docker for deployment.
-            - Identified and fixed performance issues on multi-source Mariadb replicas.
+            - Built server-side web applications using <mark>PHP</mark>, <mark>MySQL</mark>, <mark>Firebase</mark>, and <mark>JS</mark>.
+            - Troubleshot using Agile Kanban via <mark>JIRA</mark> and <mark>GIT</mark> for versioning.
+            - Implemented, developed, and optimized web software with <mark>Nginx</mark> and <mark>Docker</mark> for deployment.
+            - Identified and fixed performance issues on multi-source <mark>Mariadb</mark> replicas.
       - layout: left
         title: DBA & Data Analyst
         sub_title: Eiffel srl
         caption: November 2012 - October 2015
         description: | # this will include new lines to allow paragraphs
-            - Administered SQL Server databases and provided tutoring to less experienced administrators.
+            - Administered <mark>SQL Server</mark> databases and provided tutoring to less experienced administrators.
             - Implemented SQL Server-based solutions for data consolidation and reporting.
-            - Handled daily database administration tasks, including monitoring SQL Server and managing user requests.
+            - Handled daily database administration tasks, including monitoring <mark>SQL Server</mark> and managing user requests.
       - layout: left
         title: Data Analyst
         sub_title: Call2U srl
         caption: September 2010 - November 2012
         description: | # this will include new lines to allow paragraphs
             - Diagnosed and resolved software, hardware, and connectivity issues.
-            - Transferred, designed, adapted, installed, and maintained multiple instances of Service Manager on Windows platform using Microsoft SQL Server as T-SQL backend.
+            - Transferred, designed, adapted, installed, and maintained multiple instances of <mark>Service Manager</mark> on Windows platform using <mark>Microsoft SQL Server</mark> as <mark>T-SQL</mark> backend.
       - layout: left
         title: Frontend Developer
         sub_title: ASD Servizi
         caption: December 2006 - April 2008
         description: | # this will include new lines to allow paragraphs
-            - Created websites and PHP applications, managed catalogs, and performed editorial advertising and copywriting for corporate image.
+            - Created websites and <mark>PHP</mark> applications, managed catalogs, and performed editorial advertising and copywriting for corporate image.
             - Responsible for the design and maintenance of web services, including banner ads, hosting, domain name registration.
-            - Managed operator panel, Plesk server maintenance, domain and mailbox activation, and SQL database management.
+            - Managed operator panel, Plesk server maintenance, domain and mailbox activation, and <mark>SQL</mark> database management.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -86,12 +86,12 @@ content:
         title: New York City College of Technology
         caption: 2020
         sub_title: Bachelor Degree (GPA 3.7/4)
-        description: Bachelor of Technology in Computer Systems, Database Specialization. <br>Developed data analysis skills using Oracle SQL Developer and Microsoft SQL Server for designing and implementing multiple database management systems.
+        description: Bachelor of Technology in Computer Systems, Database Specialization. <br>Developed data analysis skills using <mark>Oracle SQL Developer</mark> and <mark>Microsoft SQL Server</mark> for designing and implementing multiple database management systems.
       - layout: left
         title: University of Bari, Bari, Italy
         caption: 2000
         sub_title: Courses in Computer Science
-        description: Acquired skills in designing, developing, and implementing software using programming languages such as Java, C++, and Python.
+        description: Acquired skills in designing, developing, and implementing software using programming languages such as <mark>Java</mark>, <mark>C++</mark>, and <mark>Python</mark>.
   - title: Additional Courses # Title for the section
     layout: text # Type of content section (list/text)
     content: |
