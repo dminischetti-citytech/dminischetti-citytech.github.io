@@ -33,7 +33,7 @@ facebook_username: dominic.minischetti
 about_title: About me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Experienced Full Stack Developer with over 5 years of professional experience in designing and developing web applications using PHP, JS, MySQL, and SQL Server. Skilled in troubleshooting and resolving issues, collaborating with cross-functional teams, and implementing effective solutions. Bachelor of Technology in Computer Information Systems with a focus on database management. Committed to staying current with emerging technologies and delivering seamless and intuitive interfaces that optimize system performance.
+  Experienced Full Stack Developer with over 5 years of professional experience in designing and developing web applications using <mark>PHP</mark>, <mark>JS</mark>, <mark>MySQL</mark>, and <mark>SQL Server</mark>. Skilled in troubleshooting and resolving issues, collaborating with cross-functional teams, and implementing effective solutions. Bachelor of Technology in Computer Information Systems with a focus on <mark>Database management</mark>. Committed to staying current with emerging technologies and delivering seamless and intuitive interfaces that optimize system performance.
 content:
   - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
