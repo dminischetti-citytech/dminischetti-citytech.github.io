@@ -33,7 +33,7 @@ facebook_username: dominic.minischetti
 about_title: About me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Full Stack Developer with 5+ years of experience in designing web applications using <mark>PHP</mark>, <mark>JS</mark>, <mark>MySQL</mark>, and <mark>SQL Server</mark>. Skilled at problem-solving and working in cross-functional teams. Graduated in Information Technology with a specialization in Databases. Always eager to explore emerging technologies for creating intuitive interfaces and optimizing performance.
+  Experienced Full Stack Developer with over 5 years of professional experience in designing and developing web applications using PHP, JS, MySQL, and SQL Server. Skilled in troubleshooting and resolving issues, collaborating with cross-functional teams, and implementing effective solutions. Bachelor of Technology in Computer Information Systems with a focus on database management. Committed to staying current with emerging technologies and delivering seamless and intuitive interfaces that optimize system performance.
 content:
   - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -43,10 +43,10 @@ content:
         sub_title: Polished.Com Inc
         caption: May 2022 - Present
         description: | # this will include new lines to allow paragraphs
-            - Designed and developed a Warehouse Management System using <mark>PHP</mark>, <mark>JS</mark>, and <mark>MySQL</mark>.
-            - Created an intuitive interface for the mobile application of the warehouse system.
-            - Collaborated with cross-functional teams to ensure optimal system performance.
-            - Contributed to the seamless management of the warehouse system for company success.
+            Responsible for designing and developing the Warehouse Management System utilizing PHP, JS and MySQL.
+            Accountable for the creation of an intuitive interface on the local warehouse application and on the handheld devices, facilitating orders, shipments, returns, and other warehouse operations.
+            I collaborate with cross-functional teams to identify and resolve issues, ensuring optimal system performance. 
+            My expertise and experience contribute to the seamless operation of the warehouse management system, ensuring the overall success of the company.
       - layout: left
         title: Full Stack Developer
         sub_title: Kingsleague GmbH
@@ -90,7 +90,7 @@ content:
       - layout: left
         title: University of Bari, Bari, Italy
         caption: 2000
-        sub_title: Courses in Computer Science
+        sub_title: Coursework in Computer Science
         description: Acquired skills in designing, developing, and implementing software using programming languages such as <mark>Java</mark>, <mark>C++</mark>, and <mark>Python</mark>.
   - title: Additional Courses # Title for the section
     layout: text # Type of content section (list/text)
@@ -103,27 +103,27 @@ content:
     layout: text # Type of content section (list/text)
     content: |
         <!--table><tr><td width="50%"--><ul>
-        <li>Programming languages: PHP, Python, JavaScript</li>
-        <li>Framework and libraries: Bootstrap, jQuery, Smarty</li>
-        <li>Development architecture: Model-View-Controller (MVC)</li>
+        <li><b>Programming languages:</b> PHP, Python, JavaScript</li>
+        <li><b>Framework and libraries:</b> Bootstrap, jQuery, Smarty</li>
+        <li><b>Development architecture:</b> Model-View-Controller (MVC)</li>
         <!--/ul></td>
         <td width="50%"><ul-->
-        <li>API Development: REST API</li>
-        <li>Databases: SQL Server, MySQL, MariaDB, MongoDB</li>
-        <li>Development metodology: Agile</li>
-        <li>Operating systems and servers: Linux, Apache</li>
+        <li><b>API Development:</b> REST API</li>
+        <li><b>Databases:</b> SQL Server, MySQL, MariaDB, MongoDB</li>
+        <li><b>Development metodology:</b> Agile, Kanban</li>
+        <li><b>Operating systems and servers:</b> Linux, Apache</li>
         </ul><!--/td></tr></table-->
   - title: Soft Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
         <!--table><tr><td width="50%"--><ul>
-        <li>Teamworking</li>
-        <li>Effective communication</li>
-        <li>Time management</li>
-        <li>Adaptability</li>
-        <li>Creative problem-solving</li>
-        <li>Result-oriented</li>
-        <li>Self-learning and continuous improvement</li>
+          <li>Effective teamworking</li>
+          <li>Clear and concise communication</li>
+          <li>Efficient time management</li>
+          <li>Adaptability and flexibility</li>
+          <li>Creative problem-solving abilities</li>
+          <li>Results-driven mindset</li>
+          <li>Commitment to self-learning and continuous improvement</li>
         </ul><!--/td></tr></table-->
   - title: Languages # Title for the section
     layout: text # Type of content section (list/text)
