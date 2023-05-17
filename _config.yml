@@ -95,6 +95,9 @@ content:
   - title: Additional Courses # Title for the section
     layout: text # Type of content section (list/text)
     content: |
+        - <b>MongoDB Course</b>, MongoDB University, 2021
+        - <b>Project Management Course</b>, New York City College of Technology, 2019
+        
         <!--table><tr><td width="50%"--><ul>
         <li><b>MongoDB Course</b>, MongoDB University, 2021</li>
         <li><b>Project Management Course</b>, New York City College of Technology, 2019</li>
