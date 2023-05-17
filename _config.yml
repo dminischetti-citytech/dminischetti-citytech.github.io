@@ -97,45 +97,32 @@ content:
     content: |
         - <b>MongoDB Course</b>, MongoDB University, 2021
         - <b>Project Management Course</b>, New York City College of Technology, 2019
-        
-        <!--table><tr><td width="50%"--><ul>
-        <li><b>MongoDB Course</b>, MongoDB University, 2021</li>
-        <li><b>Project Management Course</b>, New York City College of Technology, 2019</li>
-        </ul><!--/td></tr></table-->
   - title: Technical Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-        <!--table><tr><td width="50%"--><ul>
-        <li><b>Programming languages:</b> PHP, Python, JavaScript</li>
-        <li><b>Framework and libraries:</b> Bootstrap, jQuery, Smarty</li>
-        <li><b>Development architecture:</b> Model-View-Controller (MVC)</li>
-        <!--/ul></td>
-        <td width="50%"><ul-->
-        <li><b>API Development:</b> REST API</li>
-        <li><b>Databases:</b> SQL Server, MySQL, MariaDB, MongoDB</li>
-        <li><b>Development metodology:</b> Agile, Kanban</li>
-        <li><b>Operating systems and servers:</b> Linux, Apache</li>
-        </ul><!--/td></tr></table-->
+        - <b>Programming languages:</b> PHP, Python, JavaScript
+        - <b>Framework and libraries:</b> Bootstrap, jQuery, Smarty
+        - <b>Development architecture:</b> Model-View-Controller (MVC)
+        - <b>API Development:</b> REST API
+        - <b>Databases:</b> SQL Server, MySQL, MariaDB, MongoDB
+        - <b>Development metodology:</b> Agile, Kanban
+        - <b>Operating systems and servers:</b> Linux, Apache
   - title: Soft Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-        <!--table><tr><td width="50%"--><ul>
-          <li>Effective teamworking</li>
-          <li>Clear and concise communication</li>
-          <li>Efficient time management</li>
-          <li>Adaptability and flexibility</li>
-          <li>Creative problem-solving abilities</li>
-          <li>Results-driven mindset</li>
-          <li>Commitment to self-learning and continuous improvement</li>
-        </ul><!--/td></tr></table-->
+          - Effective teamworking
+          - Clear and concise communication
+          - Efficient time management
+          - Adaptability and flexibility
+          - Creative problem-solving abilities
+          - Results-driven mindset
+          - Commitment to self-learning and continuous improvement
   - title: Languages # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-        <!--table><tr><td width="50%"--><ul>
-        <li>Italian (native speaker)</li>
-        <li>English (fluent)</li>
-        <li>Spanish (elementary level)</li>
-        </ul><!--/td></tr></table-->
+        - <b>Italian</b> (native speaker)
+        - <b>English</b> (fluent)
+        - <b>Spanish</b> (elementary level)
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
