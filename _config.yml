@@ -106,7 +106,7 @@ content:
         - <b>API Development:</b> REST API
         - <b>Databases:</b> SQL Server, MySQL, MariaDB, MongoDB
         - <b>Development metodology:</b> Agile, Kanban
-        - <b>Operating systems and servers:</b> Linux, Apache
+        - <b>Operating systems and servers:</b> Linux, Apache, Nginx, IIS
   - title: Soft Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
