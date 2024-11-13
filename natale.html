@@ -1,6 +1,3 @@
-Ecco il codice HTML completo, ottimizzato per la visualizzazione su smartphone, senza alcuna parte del testo eliminata:
-
-```html
 <!DOCTYPE html>
 <html lang="it">
 <head>
@@ -21,21 +18,33 @@ Ecco il codice HTML completo, ottimizzato per la visualizzazione su smartphone, 
             max-width: 600px;
             margin: 0 auto;
         }
-        h1, h2, h3 {
+        h1 {
+            font-size: 2em;
             color: #d9534f;
             text-align: center;
+            font-weight: bold;
         }
-        h1 {
-            font-size: 1.8em;
-            margin-bottom: 0.5em;
+        h2 {
+            font-size: 1.4em;
+            color: #d9534f;
+            margin-top: 1.5em;
+            border-bottom: 2px solid #d9534f;
+            padding-bottom: 5px;
         }
-        h2, h3 {
-            font-size: 1.5em;
-            margin-top: 1em;
-            margin-bottom: 0.5em;
-        }
-        p, ul {
+        p {
             margin: 0 0 1em 0;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #d9534f;
+        }
+        .italic {
+            font-style: italic;
+        }
+        .large {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #d9534f;
         }
         ul {
             list-style-type: none;
@@ -46,10 +55,10 @@ Ecco il codice HTML completo, ottimizzato per la visualizzazione su smartphone, 
             background-color: #f1f1f1;
             margin: 5px 0;
             border-radius: 5px;
+            font-size: 0.9em;
         }
         .team-list {
             display: grid;
-            grid-template-columns: 1fr;
             gap: 10px;
         }
         .team {
@@ -57,16 +66,15 @@ Ecco il codice HTML completo, ottimizzato per la visualizzazione su smartphone, 
             background-color: #e9ecef;
             border-radius: 5px;
             text-align: center;
+            font-weight: bold;
+            color: #d9534f;
         }
         .footer {
             text-align: center;
             font-size: 0.9em;
             color: #666;
             margin-top: 20px;
-        }
-        .highlight {
-            font-weight: bold;
-            color: #d9534f;
+            font-style: italic;
         }
     </style>
 </head>
@@ -74,11 +82,11 @@ Ecco il codice HTML completo, ottimizzato per la visualizzazione su smartphone, 
     <div class="container">
         <h1>🎉 Benvenuti al primo Gran Gioco di Caccia al Tesoro Natalizia di Famiglia! 🎉</h1>
 
-        <p>Quest’anno, per portare un po’ di allegria nelle feste, vi invito a partecipare a <span class="highlight">LA CACCIA AL TESORO NATALIZIA PIÙ DIVERTENTE DI SEMPRE!</span> 🎅🤶</p>
+        <p class="large">Quest’anno, per portare un po’ di allegria nelle feste, vi invito a partecipare a <span class="highlight">LA CACCIA AL TESORO NATALIZIA PIÙ DIVERTENTE DI SEMPRE!</span> 🎅🤶</p>
 
         <h2>🎄 Come funziona?</h2>
-        <p>Ogni squadra deve trovare tutti gli oggetti della lista e scattarsi un selfie con ciascuno (niente foto prese da internet!). Più creativi siete, meglio è! Voglio vedere cetrioli trasformati in alberi di Natale e cappelli di Babbo Natale su… qualsiasi cosa!</p>
-        <p>Quando trovate un oggetto, postate la foto nel gruppo! Così tutti possono commentare, ridere e apprezzare le vostre trovate natalizie. 🎄📸</p>
+        <p>Ogni squadra deve trovare tutti gli oggetti della lista e scattarsi un <span class="italic">selfie</span> con ciascuno (niente foto prese da internet!). <span class="highlight">Più creativi siete, meglio è!</span> Voglio vedere cetrioli trasformati in alberi di Natale e cappelli di Babbo Natale su… qualsiasi cosa!</p>
+        <p>Quando trovate un oggetto, <span class="highlight">postate la foto nel gruppo!</span> Così tutti possono commentare, ridere e apprezzare le vostre trovate natalizie. 🎄📸</p>
 
         <h2>🏆 Le Squadre</h2>
         <div class="team-list">
@@ -90,40 +98,43 @@ Ecco il codice HTML completo, ottimizzato per la visualizzazione su smartphone, 
         </div>
 
         <h2>🎖 Il Premio</h2>
-        <p>Alla fine della caccia al tesoro, una sola squadra sarà incoronata <span class="highlight">Campione del Natale</span> e guadagnerà la Gloria Eterna fino al prossimo anno! Il vincitore sarà annunciato il 1º gennaio per iniziare l'anno nuovo con un sorriso!</p>
+        <p>Alla fine della caccia al tesoro, una sola squadra sarà incoronata <span class="highlight">Campione del Natale</span> e guadagnerà la <span class="italic">Gloria Eterna</span> fino al prossimo anno! Il vincitore sarà annunciato il <span class="highlight">1º gennaio</span> per iniziare l'anno nuovo con un sorriso!</p>
 
         <h2>🎅 La Lista degli Oggetti</h2>
         <ul>
-            <li>1. Un calzino spaiato che potrebbe essere di un elfo distratto</li>
-            <li>2. Una decorazione natalizia così kitsch da farti dubitare delle scelte di chi l’ha comprata</li>
-            <li>3. Un cucchiaio o utensile da cucina trasformato in “bacchetta magica” natalizia – aggiungi glitter o un nastrino e voilà!</li>
-            <li>4. Un Babbo Natale che sembra aver bisogno di una vacanza</li>
-            <li>5. Un “biscotto di Natale” inaspettato - qualsiasi cibo potrebbe essere un dolce se ci credi abbastanza.</li>
-            <li>6. Un cappello di Babbo Natale su qualcosa di strano – tipo un cuscino, una scopa o un porta ombrelli.</li>
-            <li>7. Una bevanda “invernale” improvvisata – cioccolata calda? Va bene, ma anche un tè messo nel bicchiere di un frullato va bene.</li>
-            <li>8. Un animaletto (vero o falso) vestito a festa che sembra perplesso dal Natale</li>
-            <li>9. Un pezzo di carta regalo riciclata così tante volte che sembra antica</li>
-            <li>10. Qualcosa con “troppo” glitter – se quando lo tocchi, hai glitter anche sui denti, hai trovato l’oggetto giusto.</li>
-            <li>11. Un piatto di cibo che “sembra” una decorazione natalizia – sì, anche se è un’insalata con un po’ di fantasia.</li>
-            <li>12. Un cartello o una scritta che puoi interpretare come “felice Natale” – anche se dice tutt’altro!</li>
-            <li>13. Qualcosa che “sarebbe stato meglio non decorare per Natale” – tipo una pianta da ufficio o un pelapatate.</li>
-            <li>14. Un elfo di fortuna fatto con cose di casa – un cucchiaio, uno scialle, e qualche nastro, e hai l’elfo fai-da-te!</li>
-            <li>15. Una decorazione che sembra “troppo seria” per essere di Natale – tipo una scultura d’arte con un cappellino natalizio.</li>
-            <li>16. Una “renna” improvvisata – un animale (vero o finto) che potrebbe essere una renna se ci credi abbastanza.</li>
-            <li>17. Un oggetto che ti fa dire “ma che c’entra col Natale?” – ma lo fotografi comunque.</li>
-            <li>18. Qualcosa che sembra “il Grinch prima del caffè”</li>
-            <li>19. Un biglietto di auguri “creativo” – fatto con qualsiasi cosa, anche un tovagliolo o un post-it.</li>
-            <li>20. Una sedia o poltrona “vestita” per Natale – con una coperta, un nastro, o un tocco di fantasia.</li>
-            <li>21. Un oggetto che “sostiene di essere natalizio” ma non lo è affatto – tipo un telecomando con un adesivo di Babbo Natale.</li>
-            <li>22. Qualcosa di rosso e bianco che non è natalizio ma ci crede – tipo una bottiglia di ketchup.</li>
-            <li>23. Qualcosa che “fa rumore natalizio” ma non lo è – tipo un cucchiaio e una pentola usati come campane!</li>
-            <li>24. Una decorazione così strana che va spiegata due volte – anche se nessuno la capirà mai.</li>
-            <li>25. Qualcosa che “vuole” essere un regalo, anche se è solo una scatola vuota.</li>
+            <li>Un calzino spaiato che potrebbe essere di un elfo distratto</li>
+            <li>Una decorazione natalizia così kitsch da farti dubitare delle scelte di chi l’ha comprata</li>
+            <li>Un cucchiaio o utensile da cucina trasformato in “bacchetta magica” natalizia – aggiungi glitter o un nastrino e voilà!</li>
+            <li>Un Babbo Natale che sembra aver bisogno di una vacanza</li>
+            <li>Un “biscotto di Natale” inaspettato - qualsiasi cibo potrebbe essere un dolce se ci credi abbastanza</li>
+            <li>Un cappello di Babbo Natale su qualcosa di strano – tipo un cuscino, una scopa o un porta ombrelli</li>
+            <li>Una bevanda “invernale” improvvisata – cioccolata calda? Va bene, ma anche un tè messo nel bicchiere di un frullato va bene</li>
+            <li>Un animaletto (vero o falso) vestito a festa che sembra perplesso dal Natale</li>
+            <li>Un pezzo di carta regalo riciclata così tante volte che sembra antica</li>
+            <li>Qualcosa con “troppo” glitter – se quando lo tocchi, hai glitter anche sui denti, hai trovato l’oggetto giusto</li>
+            <li>Un piatto di cibo che “sembra” una decorazione natalizia – sì, anche se è un’insalata con un po’ di fantasia</li>
+            <li>Un cartello o una scritta che puoi interpretare come “felice Natale” – anche se dice tutt’altro</li>
+            <li>Qualcosa che “sarebbe stato meglio non decorare per Natale” – tipo una pianta da ufficio o un pelapatate</li>
+            <li>Un elfo di fortuna fatto con cose di casa – un cucchiaio, uno scialle, e qualche nastro, e hai l’elfo fai-da-te!</li>
+            <li>Una decorazione che sembra “troppo seria” per essere di Natale – tipo una scultura d’arte con un cappellino natalizio</li>
+            <li>Una “renna” improvvisata – un animale (vero o finto) che potrebbe essere una renna se ci credi abbastanza</li>
+            <li>Un oggetto che ti fa dire “ma che c’entra col Natale?” – ma lo fotografi comunque</li>
+            <li>Qualcosa che sembra “il Grinch prima del caffè”</li>
+            <li>Un biglietto di auguri “creativo” – fatto con qualsiasi cosa, anche un tovagliolo o un post-it</li>
+            <li>Una sedia o poltrona “vestita” per Natale – con una coperta, un nastro, o un tocco di fantasia</li>
+            <li>Un oggetto che “sostiene di essere natalizio” ma non lo è affatto – tipo un telecomando con un adesivo di Babbo Natale</li>
+            <li>Qualcosa di rosso e bianco che non è natalizio ma ci crede – tipo una bottiglia di ketchup</li>
+            <li>Qualcosa che “fa rumore natalizio” ma non lo è – tipo un cucchiaio e una pentola usati come campane</li>
+            <li>Una decorazione così strana che va spiegata due volte – anche se nessuno la capirà mai</li>
+            <li>Qualcosa che “vuole” essere un regalo, anche se è solo una scatola vuota</li>
         </ul>
 
         <h2>⏰ Termine Ultimo</h2>
-        <p>La caccia al tesoro si conclude il 24 dicembre a mezzanotte, in base al fuso orario del luogo in cui vi trovate. Quindi, indipendentemente da dove siete, avete tempo fino alla fine della vigilia di Natale per completare la vostra lista e postare le foto nel gruppo!</p>
+        <p>La caccia al tesoro si conclude il <span class="highlight">24 dicembre a mezzanotte</span>, in base al fuso orario del luogo in cui vi trovate. Quindi, indipendentemente da dove siete, avete tempo fino alla fine della vigilia di Natale per completare la vostra lista e postare le foto nel gruppo!</p>
 
-        <p>Siete pronti a trasformare questo Natale in un’avventura epica? 🚀 Prepariamoci a vivere il Natale più divertente e creativo di sempre! 🎄📸</p>
+        <p class="large">Siete pronti a trasformare questo Natale in un’avventura epica? 🚀 Prepariamoci a vivere il Natale più divertente e creativo di sempre! 🎄📸</p>
 
-        <p class="footer">PS: La lista è stata creata da ChatGPT, così nessuno può incolpare me per questi oggetti strani! L
+        <p class="footer"><span class="italic">PS:</span> La lista è stata creata da ChatGPT, quindi nessuno può incolpare me per questi oggetti strani! <span class="highlight">Buon divertimento!</span></p>
+    </div>
+</body>
+</html>
